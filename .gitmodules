@@ -1,3 +1,6 @@
 [submodule "ptt-web-crawler"]
 	path = ptt-web-crawler
 	url = https://github.com/jwlin/ptt-web-crawler.git
+[submodule "MyNLPWrangler"]
+	path = MyNLPWrangler
+	url = git@github.com:jjudy60334/MyNLPWrangler.git
