@@ -769,3 +769,7 @@ yyyy
 每集
 文章
 目前
+imgur
+jpg
+com
+ptt
